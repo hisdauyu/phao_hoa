@@ -1,0 +1,8 @@
+{
+    "vscodeGoogleTranslate.preferredLanguage": "Vietnamese",
+    "commentTranslate.source": "Google",
+    "googleTranslateExt.languages": [
+        "vi"
+    ],
+    "googleTranslateExt.replaceText": true
+}
